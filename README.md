@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineering Student @ İstinye Üniversitesi | 42 İstanbul</h3>
 
 <p align="center">
-  I am a software engineer focusing on Machine Learning, Natural Language Processing, and robust System Architecture. I build everything from real-time computer vision models to containerized backend operations centers and memory management with low level languages
+  I am a software engineer focusing on Machine Learning, Natural Language Processing, and robust System Architecture. I build everything from real-time computer vision models to containerized backend operations centers and i love dealing with memory management with low-level languages
 </p>
 
 ---
@@ -53,12 +53,3 @@ Algorithmic location optimization system for Shenzhen.
 * **Highlights:** Implemented the Improved Whale Optimization Algorithm (IWOA) to calculate the most efficient grid placements for electric vehicles.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyctophilG&show_icons=true&theme=radical" alt="Göktuğ's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyctophilG&layout=compact&theme=radical" alt="Top Languages" />
-</p>
