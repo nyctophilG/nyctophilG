@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 - 🎓 Software Engineering (2023-2027) at İstinye Üniversitesi.
 - 💻 Building and experimenting in a Linux/Windows dual-boot environment.
 - 🤝 Open to collaborating on MLOps, Data Engineering, and complex system architecture projects.
@@ -33,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 ### [CafeSync](#)
 A Point-of-Sale and inventory backend operations center.
