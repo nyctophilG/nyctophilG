@@ -1,5 +1,3 @@
-## Hi
-
 <h1 align="center">Hi there, I'm Göktuğ Şahin </h1>
 
 <h3 align="center">Software Engineering Student @ İstinye Üniversitesi | 42 İstanbul</h3>
@@ -51,5 +49,3 @@ Computer vision application for live video streaming analysis.
 Algorithmic location optimization system for Shenzhen.
 * **Stack:** Python, Data Structures.
 * **Highlights:** Implemented the Improved Whale Optimization Algorithm (IWOA) to calculate the most efficient grid placements for electric vehicles.
-
----
